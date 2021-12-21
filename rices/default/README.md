@@ -5,11 +5,11 @@ This is the theme that I have used for the most part
 ![Default theme screenshot](./screenshot2.png)
 
 ## Themes
-- Global theme: Layan 
-- Application style: Lightly
-- Plasma style: Orchis dark
-- GTK style: Materia dark
-- Colors: ArchSmooth
+- Global theme: Layan (https://store.kde.org/p/1325243)
+- Application style: Lightly (https://github.com/Luwx/Lightly)
+- Plasma style: Orchis dark (https://store.kde.org/p/1458916)
+- GTK style: Materia dark (https://github.com/nana-4/materia-theme)
+- Colors: ArchSmooth (Download from default folder)
 - Window decoration: Future-dark solid (Customized to be solid. Original future dark was translucent and can be found https://store.kde.org/p/1496170/)
 - Fonts: Noto
 - Icons: Tela Dark
@@ -18,22 +18,22 @@ This is the theme that I have used for the most part
 
 ## Top panel (Size 32)
 - Application launcher
-- Window title
+- Window title (https://store.kde.org/p/1274218/)
 - Global menu
 - < Spacer >
 - Pager (3 virtual desktops)
 - Clipboard
 - Notification
 - Color picker
-- Temperature 
-- CPU 
-- RAM
+- Temperature (Download icon from default folder)
+- CPU (Download icon from default folder)
+- RAM (Download icon from default folder)
 - Volume
 - Network
 - Battery
 - KDE Connect
 - System tray
-- Better inline clock
+- Better inline clock (https://store.kde.org/p/1245902/)
 - Application dashboard
 
 Temperature, CPU, and RAM are all shit af custom widgets... I need to learn more QML as currently they are 2 seperate widgets one being the icon and the other being for text. I have uploaded the icon widget and not the other cuz it is just text. If I figure out how to write proper QML and make better widgets, I will upload this.

@@ -4,11 +4,11 @@ Has many of the widgets used in default theme but spread accross to fill space a
 ![Theme screenshot](./screenshot.png)
 
 ## Themes
-- Global theme: Layan 
-- Application style: Lightly
-- Plasma style: Orchis dark
-- GTK style: Materia dark
-- Colors: ArchSmooth
+- Global theme: Layan (https://store.kde.org/p/1325243)
+- Application style: Lightly (https://github.com/Luwx/Lightly)
+- Plasma style: Orchis dark (https://store.kde.org/p/1458916)
+- GTK style: Materia dark (https://github.com/nana-4/materia-theme)
+- Colors: ArchSmooth (Download from default folder)
 - Window decoration: Future-dark solid (Customized to be solid. Original future dark was translucent and can be found https://store.kde.org/p/1496170/)
 - Fonts: Noto
 - Icons: Tela Dark
@@ -19,7 +19,7 @@ Theme files can be found in default
 
 ## Top panel (Size 32)
 - Application launcher
-- Window title
+- Window title (https://store.kde.org/p/1274218/)
 - Global menu
 - < Spacer >
 - Notification
@@ -27,10 +27,17 @@ Theme files can be found in default
 - Network
 - Battery
 - System tray (Everything hidden/disabled)
-- Better inline clock
+- Better inline clock (https://store.kde.org/p/1245902/)
 - Application dashboard
 
 ## Latte dock (Size 32px)
+### Widgets to install before applying
+- CPU icon (Download icon from default folder)
+- Ram Icon (Download icon from default folder)
+- Temperature Icon (Download icon from default folder)
+- Latte sidebar button (https://store.kde.org/p/1365044/)
+- Virtual desktop bar (https://github.com/wsdfhjxc/virtual-desktop-bar)
+
 ### Center
 - System Settings
 - File manager
@@ -45,11 +52,11 @@ Theme files can be found in default
 
 ### Right
 - Color picker
-- CPU Icon
+- CPU Icon (Download icon from default folder)
 - System Monitor (Horizontal bar, CPU Total usage)
-- Temperature Icon
+- Temperature Icon (Download icon from default folder)
 - System Monitor (Horizontal bar, CPUTIN/CPU temperature)
-- Ram Icon
+- Ram Icon (Download icon from default folder)
 - System Monitor (Horizontal bar, Ram usage)
 
 ### Sidebar
