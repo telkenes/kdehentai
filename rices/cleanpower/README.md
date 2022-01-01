@@ -1,4 +1,4 @@
-# Simple theme
+# Clean power (user) theme
 Has many of the widgets used in default theme but spread accross to fill space and make the top bar more clean.
 
 ![Theme screenshot](./screenshot.png)
